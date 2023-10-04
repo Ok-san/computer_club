@@ -1,0 +1,9 @@
+2
+22:00 09:00
+10
+21:48 1 client1
+00:00 1 client1
+01:48 1 client2
+01:52 2 client1 1
+02:00 2 client2 2
+09:00 1 client3
