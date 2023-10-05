@@ -1,5 +1,5 @@
 # computer_club/ compilation instruction
-В корне проекта вести команды
+В корне проекта ввести команды
 
 Windows:  
 >*mkdir build  
